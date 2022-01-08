@@ -1,0 +1,26 @@
+table,tr,td,th{
+    border: 2px solid black;
+    border-color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+   
+    
+}
+th{
+    background-color: blueviolet;
+    color:azure
+}
+tr{
+    background-color: black;
+    color:antiquewhite
+}
+tr:hover{
+    background-color:chartreuse;
+    color:black;
+    border-color:black;
+ 
+
+}
+h1{
+    background-color:cadetblue
+}
